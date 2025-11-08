@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Mentor GDU
 
 Trợ lý học tập thông minh cho sinh viên Đại học Gia Định
@@ -35,3 +36,6 @@ gdu-ai-mentor/
 └── netlify/
     └── functions/
         └── proxy.js
+=======
+# gdu-ai-mentor
+>>>>>>> 88c75eed766d23c65389f09d57d91bf18b11f943
